@@ -1,0 +1,12 @@
+help.
+
+1) whats the diff between <Header /> and <Header> </Header>
+
+2) wtf is an anchor tag
+
+3) how do i know what the container needs??
+
+4) wtf is .container :D
+
+5) <a href="#contact" onClick={()=>setActiveNav('#contact')} className={activeNav === '#contact'?'active':''}><AiOutlineMessage/></a>
+how is this active class, and how is it different from normal css src=#
