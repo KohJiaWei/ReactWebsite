@@ -17,32 +17,17 @@ const Service = () => {
           <ul className='service_list'>
             <li>
               <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
+              <p>Data visualization</p>
             </li>
 
             <li>
               <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
+              <p>Data Extrapolation</p>
             </li>
 
             <li>
               <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-            
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
+              <p>SeaBorne and Pandas</p>
             </li>
             
           </ul>
@@ -50,39 +35,20 @@ const Service = () => {
         {/* TITLE CARD TWO */}
         <article className='service'>
           <div className='service_head'>
-            <h3>Data Analysis</h3>
+            <h3>Content Creation</h3>
           </div>
-
           <ul className='service_list'>
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>Content Creation</p>
-            </li>
 
             <li>
               <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
+              <p>Making music</p>
             </li>
             
             <li>
               <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
+              <p>Youtube Content</p>
             </li>
 
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
             
           </ul>
         </article>
@@ -92,38 +58,17 @@ const Service = () => {
           <div className='service_head'>
             <h3>Web development</h3>
           </div>
-
           <ul className='service_list'>
             <li>
               <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
+              <p>Front end</p>
             </li>
             
             <li>
               <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
+              <p>API calls</p>
             </li>
 
-            <li>
-              <FaChess className='service_list-icon'/>
-              <p>visualize data</p>
-            </li>
-            
           </ul>
         </article>
 

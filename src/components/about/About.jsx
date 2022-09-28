@@ -7,7 +7,7 @@ import {GiDragonShield} from 'react-icons/gi'
 
 const About = () => {
   return (
-    <section id ='about'>About
+    <section id ='about'>
     <h5>Get to know</h5>
     <h2>About Me</h2>
 
